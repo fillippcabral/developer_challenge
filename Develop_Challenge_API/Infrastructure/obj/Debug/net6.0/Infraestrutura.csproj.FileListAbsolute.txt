@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Infraestrutura.deps.json
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Infraestrutura.runtimeconfig.json
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Infraestrutura.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Infraestrutura.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.AssemblyInfo.cs
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.csproj.CopyComplete
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\refint\Infraestrutura.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\Infraestrutura.genruntimeconfig.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Infrastructure\obj\Debug\net6.0\ref\Infraestrutura.dll

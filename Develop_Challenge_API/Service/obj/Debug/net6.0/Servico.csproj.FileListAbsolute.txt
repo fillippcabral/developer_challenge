@@ -1,0 +1,12 @@
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Servico.deps.json
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Servico.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Servico.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.AssemblyInfo.cs
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\refint\Servico.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Servico.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\ref\Servico.dll

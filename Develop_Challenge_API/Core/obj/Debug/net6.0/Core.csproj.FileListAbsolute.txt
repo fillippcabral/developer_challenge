@@ -1,0 +1,12 @@
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\bin\Debug\net6.0\Core.deps.json
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\bin\Debug\net6.0\Core.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\bin\Debug\net6.0\Core.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\Core.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Core\obj\Debug\net6.0\ref\Core.dll

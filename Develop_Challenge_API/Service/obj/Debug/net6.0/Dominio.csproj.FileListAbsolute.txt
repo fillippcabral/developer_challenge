@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Dominio.deps.json
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Dominio.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Dominio.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Core.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Infraestrutura.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Core.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\bin\Debug\net6.0\Infraestrutura.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.csproj.CopyComplete
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\refint\Dominio.dll
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\Dominio.pdb
+C:\Desenvolvimento\Challenge\developer_challenge\Develop_Challenge_API\Service\obj\Debug\net6.0\ref\Dominio.dll
