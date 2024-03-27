@@ -1,9 +1,9 @@
 ﻿/.vs/
-/src/DLL.DT.Digital.TermoBacen.BancoDeDadosEF/bin/
-/src/DLL.DT.Digital.TermoBacen.BancoDeDadosEF/obj
-/src/DLL.DT.Digital.TermoBacen.Core/bin/
-/src/DLL.DT.Digital.TermoBacen.Core/obj
-/src/DLL.DT.Digital.TermoBacen.Dominio/bin/
-/src/DLL.DT.Digital.TermoBacen.Dominio/obj
-/src/DLL.DT.Digital.TermoBacen.WebAPI/bin/
-/src/DLL.DT.Digital.TermoBacen.WebAPI/obj/
+/Core/bin/
+/Core/obj/
+/Develop_Challenge_API/obj/
+/Develop_Challenge_API/bin/
+/Infrastructure/obj/
+/Infrastructure/bin/
+/Service/obj/
+/Service/bin/
